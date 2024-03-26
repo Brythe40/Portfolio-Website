@@ -252,4 +252,153 @@
         background-color: #40265a;
         margin-top: 20px;
     }
+
+    #education-experience {
+        background-color: #291544;
+        text-align: center;
+        padding-top: 100px;
+        margin-bottom: -3.5%;
+    }
+
+    #education-experience h2 {
+        color: #9dedfc;
+        text-align: center;
+        font-size: 1em;
+        margin-bottom: -30px;
+        margin-top: -3%;
+    }
+
+    #education-experience .section-content .intro-text {
+        text-align: center;
+        font-size: 2em;
+        font-weight: bold;
+        color: white;
+        margin-right: 15px;
+        margin-bottom: 30px;
+        margin-left: 20px;
+    }
+
+    #education-experience .section-content .intro-text-head {
+        text-align: center;
+        font-size: 1.7em;
+        font-weight: bold;
+        color: #9dedfc;
+        margin-right: 15px;
+        margin-bottom: 10%;
+        margin-left: 15px;
+    }
+
+    .timeline-item {
+        display: flex;
+        align-items: flex-start;
+        margin-bottom: 40px;
+        font-size: 1.2em;
+    }
+
+    .timeline-column {
+        flex: 1;
+        align-items: center;
+        padding: 5px;
+        font-size: 0.7em;
+    }
+
+    .timeline-credential{
+        font-weight: bold;
+        color: #f65fbb;
+        flex: 3;
+        display: flex;
+        margin-left: -15%;
+        margin-top: -5%;
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .timeline-credential h3 {
+        margin-top: 7%;
+        margin-left: -70%;
+    }
+
+    .timeline-credential p {
+        margin-top: -8%;
+        margin-left: -70%;
+    }
+
+    .wtimeline-credential{
+        font-weight: bold;
+        color: #f65fbb;
+        flex: 3;
+        display: flex;
+        margin-left: -15%;
+        margin-top: -5%;
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .wtimeline-credential h3 {
+        margin-top: 7%;
+        margin-left: -70%;
+    }
+
+    .wtimeline-credential p {
+        margin-top: -8%;
+        margin-left: -70%;
+    }
+
+    .timeline-info {
+        flex: 2;
+        display: flex;
+        text-align: left;
+        margin-bottom: 5%;
+        margin-left: -23%;
+        border-left: 1px solid white;
+        padding-left: 35px;
+    }
+
+    .timeline-info h3 {
+        color: white;
+        margin-bottom: -2%;
+        margin-top: -20%;
+        height: 18px;
+    }
+
+    .timeline-info p {
+        color: #CCC;
+        margin-right: -30%;
+        margin-bottom: -3%;
+    }
+
+    .wtimeline-info {
+        flex: 2;
+        display: flex;
+        text-align: left;
+        margin-bottom: 5%;
+        margin-left: -23%;
+        border-left: 1px solid white;
+        padding-left: 35px;
+    }
+
+    .wtimeline-info h3 {
+        color: white;
+        margin-bottom: -2%;
+        margin-top: -20%;
+        height: 18px;
+    }
+
+    .wtimeline-info p {
+        color: #CCC;
+        margin-right: -30%;
+        margin-bottom: -3%;
+    }
+
+    .icon {
+        width: 60px; 
+        height: 60x; 
+        margin-left: -26%;
+        padding: 0;
+        margin-top: -9%;
+    }
+
+    .timeline-item{
+        margin-left:15%;
+    }
 }
